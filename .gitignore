@@ -1,0 +1,5 @@
+*.xcodeproj/
+RallyCounter/Info.plist
+build/
+*.ipa
+.DS_Store
